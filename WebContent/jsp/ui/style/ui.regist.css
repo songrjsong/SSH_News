@@ -1,0 +1,219 @@
+.login_bj {
+     background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: center;
+        background-position-y: top;
+        background-size: auto auto;
+}
+body {
+    font-size: 14px;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    margin: 0;
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    padding: 0;
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+}
+* {
+    font-family: "microsoft yahei",simsun,Tahoma,sans-serif;
+}
+.zhuce_body {
+    float: left;
+    width: 100%;
+    height: auto;
+}
+.zhuce_body .zhuce_kong {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 478px;
+    margin-left: -300px;
+    margin-top: -239px;
+}
+.zhuce_body .zhuce_kong .zc {
+    width: 600px;
+    height: 408px;
+}
+.zhuce_body .logo {
+    width: 114px;
+    height: 54px;
+    margin: 53px 0 0 65px;
+        margin-top: 53px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 65px;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai {
+    float: left;
+    width: 400px;
+    height: 408px;
+    padding-left: 150px;
+    background: #FFF;
+        background-color: rgb(255, 255, 255);
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto auto;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai h3 {
+    font: 16px/70px "微软雅黑", "黑体";
+        font-family: "微软雅黑","黑体";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 70px;
+        font-size-adjust: none;
+        font-stretch: normal;
+        -x-system-font: none;
+        font-feature-settings: normal;
+        font-language-override: normal;
+        font-kerning: auto;
+        font-variant-alternates: normal;
+        font-variant-caps: normal;
+        font-variant-east-asian: normal;
+        font-variant-ligatures: normal;
+        font-variant-numeric: normal;
+        font-variant-position: normal;
+    color: #333333;
+    width: 270px;
+    text-align: center;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai .phone {
+       background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 10px;
+        background-position-y: 10px;
+        background-size: auto auto;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai .kuang_txt {
+    width: 236px;
+    height: 32px;
+    border: 1px solid #dddddd;
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-top-color: rgb(221, 221, 221);
+        border-right-color: rgb(221, 221, 221);
+        border-bottom-color: rgb(221, 221, 221);
+        border-left-color: rgb(221, 221, 221);
+        -moz-border-top-colors: none;
+        -moz-border-right-colors: none;
+        -moz-border-bottom-colors: none;
+        -moz-border-left-colors: none;
+        border-image-source: none;
+        border-image-slice: 100%;
+        border-image-width: 1;
+        border-image-outset: 0;
+        border-image-repeat: stretch stretch;
+    line-height: 32px;
+    padding-left: 32px;
+    color: #b1a9a9;
+    margin-bottom: 10px;
+}
+h1, h2, h3, h4, h5, h6, button, input, select, textarea {
+    font-size: 100%;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai .email {
+   	    background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 10px;
+        background-position-y: 10px;
+        background-size: auto auto;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai .possword {
+    	background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 10px;
+        background-position-y: 10px;
+        background-size: auto auto;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai .yanzm {
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 10px;
+        background-position-y: 10px;
+        background-size: auto auto;
+    margin-bottom: 0px;
+}
+
+
+a {
+    color: #313131;
+    text-decoration: none;
+}
+.zhuce_body .zhuce_kong .zc .bj_bai .btn_zhuce {
+    width: 270px;
+    height: 33px;
+    background: #37b5f9;
+        background-color: rgb(55, 181, 249);
+        background-image: none;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto auto;
+	    font-size: 14px;
+	    line-height: 33px;
+	    text-align: center;
+	    border: 0px;
+        border-top-width: 0px;
+        border-right-width: 0px;
+        border-bottom-width: 0px;
+        border-left-width: 0px;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+        border-top-color: currentcolor;
+        border-right-color: currentcolor;
+        border-bottom-color: currentcolor;
+        border-left-color: currentcolor;
+        -moz-border-top-colors: none;
+        -moz-border-right-colors: none;
+        -moz-border-bottom-colors: none;
+        -moz-border-left-colors: none;
+        border-image-source: none;
+        border-image-slice: 100%;
+        border-image-width: 1;
+        border-image-outset: 0;
+        border-image-repeat: stretch stretch;
+    color: #fff;
+    border-radius: 3px;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+        border-bottom-left-radius: 3px;
+    cursor: pointer;
+}
+
+
+	.tb960x90 {display:none!important;display:none}
+	

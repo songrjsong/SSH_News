@@ -1,0 +1,43 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+ <hibernate-configuration>
+	<session-factory>
+		
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://127.0.0.1:3306/news?characterEncoding=UTF-8</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">root</property>
+                          
+        <property name="hibernate.connection.provider_class">org.hibernate.c3p0.internal.C3P0ConnectionProvider</property>   
+        <property name="hibernate.c3p0.max_size">20</property>
+        <property name="hibernate.c3p0.min_size">5</property>
+        <property name="hibernate.c3p0.timeout">120</property>
+        <property name="hibernate.c3p0.max_statements">100</property>
+        <property name="c3p0.maxIdleTime">25000</property>
+
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="show_sql">true</property>
+		<property name="format_sql">true</property>
+        <property name="hbm2ddl.auto">update</property>
+        
+         <mapping class="com.rjsong.news.entity.Admin"/>
+         <mapping class="com.rjsong.news.entity.Attention"/>
+         <mapping class="com.rjsong.news.entity.Collect"/>
+         <mapping class="com.rjsong.news.entity.Comment"/>
+         <mapping class="com.rjsong.news.entity.Favor"/>
+         <mapping class="com.rjsong.news.entity.Feedback"/>
+         <mapping class="com.rjsong.news.entity.Inform"/>
+         <mapping class="com.rjsong.news.entity.News"/>
+         <mapping class="com.rjsong.news.entity.Notice"/>
+         <mapping class="com.rjsong.news.entity.Reply"/>
+         <mapping class="com.rjsong.news.entity.Type"/>
+         <mapping class="com.rjsong.news.entity.User"/>
+
+	</session-factory>
+	
+	
+	
+</hibernate-configuration>  
+

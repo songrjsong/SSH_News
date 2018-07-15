@@ -1,0 +1,152 @@
+@CHARSET "UTF-8";
+body{
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	background: url(../img/bg.png);
+}
+
+
+#divTop{
+	margin:0px;
+	padding: 0px;
+	
+}
+
+
+ #divTop #divNavBar{
+	margin-left: 340px;
+	margin-top: -70px;
+	width:600px;
+	
+}
+
+
+
+#divTop #divNavBar ul a{
+	margin-left: 30px;
+	text-decoration: none;
+	font-size: 16px;
+	
+}
+
+#divTop #divNavBar ul a:hover{
+	color: orange;
+	
+}
+
+
+#divMiddle{
+	position: relative;
+	margin-top: 70px;
+	margin-left: 150px;
+	width: 1050px;
+	
+	
+}
+
+
+#divMiddle .menu-nav {
+	
+	margin-top:0px;
+	margin-left: 44px;
+	width: 960px;
+	height: 60px;
+	background: white;
+	border: 1px solid gainsboro;
+}
+
+#divMiddle .menu-nav ul{
+	margin-left: -10px;
+}
+
+#divMiddle .menu-nav  ul a{
+	float: left;
+	margin-left: 20px;
+	margin-top: 22px;
+	font-size: 12px;
+	color: 14px;
+	text-decoration: none;
+	
+}
+
+#divMiddle .menu-nav .user-nav{
+	font-size: 15px;
+	color: black;
+}
+
+#divMiddle .menu-nav ul a:hover{
+	color: orange;
+}
+
+
+
+
+
+#divBottom{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: -150px;
+	width: 1365px;
+	height: 150px;
+	border-top: 1px solid gainsboro;
+	background:white;
+	
+}
+
+#divBottom .introduce1 {
+	margin-top: 40px;
+	margin-left:450px ;
+	width: 450px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce1 a{
+	text-align: center;
+	font-size: 13px;
+	color: black;
+	text-decoration: none;
+}  
+
+#divBottom .introduce1 a:hover{  
+	color: darkgray;
+}
+
+#divBottom .introduce2{
+	margin-top: 5px;
+	margin-left: 535px;
+	width: 250px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce2 a{
+	text-align: center;
+	font-size: 13px;
+	text-decoration: none;
+	color: black;
+}  
+
+#divBottom .introduce2 a:hover{  
+	color: darkgray;;
+}
+
+#divBottom .introduce3{
+	margin-top: 5px;
+	margin-left: 480px;
+	width: 360px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce3 a{
+	text-align: center;
+	font-size: 13px;
+	color: black;
+	text-decoration: none;
+}  
+
+#divBottom .introduce3 a:hover{  
+	color: darkgray;
+}

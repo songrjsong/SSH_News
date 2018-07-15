@@ -1,0 +1,316 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	background: url(../img/bg.png);
+}
+
+
+#divTop{
+	
+	margin:0px;
+	padding: 0px;
+	
+}
+
+#divTop .divtu{
+	margin-top-20px:
+}
+
+
+ #divTop #divNavBar{
+	margin-left: 340px;
+	margin-top: -70px;
+	
+}
+
+
+#divTop #divNavBar ul a{
+	
+	margin-left: 30px;
+	text-decoration: none;
+	font-size: 16px;
+	
+}
+
+#divTop #divNavBar ul a:hover{
+	color: orange;
+	
+}
+
+#divMiddle{
+	position: relative;
+	width: 1050px;
+	
+	
+}
+
+
+
+#divMiddle .div-left{
+	margin-top: 80px;
+	margin-left: 150px;
+	width: 650px;
+	height: 700px;
+	
+	
+}
+
+
+
+
+#divMiddle .div-left .menu-nav{
+	margin-top:50px;
+	height: 60px;
+	background: white;
+}
+
+#divMiddle .div-left .menu-nav ul a{
+	float: left;
+	padding-right: 25px;
+	margin-top: 20px;
+	font-size: 16px;
+	color: black;
+	text-decoration: none;
+	
+}
+
+#divMiddle .div-left .menu-nav ul a:hover{
+	
+	color: orange;
+}
+
+#divMiddle .div-left #middle-content{
+	position: relative;
+	
+	background: white;
+	width: 650px;
+	
+	
+}
+
+#divMiddle .div-left #middle-content .recommend{
+	
+	margin-top: 20px;
+	margin-left: 15px;
+	height: 50px;
+	font-size: 14px;
+}
+
+#divMiddle .div-left #middle-content .recommend span{
+	float: left;
+	margin-top: 14px;
+}
+#middle-content .mainlist{
+	
+	border-top: 1px solid #DDDDDD; 
+	height:200px ;
+	background: white;
+}
+
+#middle-content .mainlist .big-img{
+	margin-top:20px;
+	margin-left: 15px;
+	width: 220px;
+	height: 160px;
+}
+
+#middle-content .mainlist .list-content{
+	margin-left: 250px;
+	margin-top: -160px;
+	width: 400px;
+	height: 160px;
+	
+}
+
+#middle-content .mainlist .list-content h1{
+	font-family: arial;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#middle-content .mainlist .list-content .article-info{
+	margin-top: 10px;
+	font-size: 14px;
+	color: gray;
+}
+#middle-content .mainlist .list-content .summary{
+	margin-top: 10px;
+	font-size: 14px;
+	color: gray;
+}
+
+#middle-content .mainlist .list-content .data{
+	margin-top: 30px;
+	font-size: 13px;
+	color: gray;
+}
+
+#middle-content .mainlist .list-content .data .data-left{
+	float: left;
+}
+
+#middle-content .mainlist .list-content .data .data-right{
+	margin-right: 10px;
+	float: right;
+}
+
+#middle-content .more{
+	
+	background: white;
+	height: 60px;
+}
+
+#middle-content .more .more-update{
+	float: left;
+	margin-top: 20px;
+	margin-left: 300px;
+	text-align: center;
+	font-size: 16px;
+	
+}
+
+#middle-content .more .more-update a{
+	text-decoration: none;
+	
+	color: black;
+}
+#middle-content .more .more-update a:hover{
+	color: darkblue;
+}
+
+#divMiddle .div-right{
+	position:absolute;
+	margin-top: -610px;
+	margin-left: 710px;
+	width: 350px;
+	height: 300px;
+	background: white;
+}
+
+
+
+
+
+#divMiddle .div-right #divSidebar .user-avatar{
+	margin-top: 20px;
+	margin-left: 20px;
+	
+	
+}
+
+ .name-relation{
+	margin-left: 180px;
+	margin-top: -100px;
+	width: 100px;
+	height: 20px;
+	font-size: 24px;
+	
+}
+
+ .others{
+	margin-top: 100px;
+	margin-left: 20px;
+	font-size: 16px;
+	color: olive;
+}
+
+.user-datas{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 20px;
+	width: 300px;
+	height: 90px;
+}
+
+.user-datas ul{
+	margin-left: 20px;	
+	width: 260px;
+	height:40px ;
+	
+}
+
+.user-datas ul li{
+	margin-left: 20px;
+	font-size: 20px;
+	float: left;
+	display: inline;
+	padding: 20px;
+}
+
+.number{
+	float: left;
+	width: 280px;
+	height: 40px;
+	font-size: 16px;
+	text-align: center;
+}
+
+
+
+
+
+#divBottom{
+	position: absolute;
+	margin-top: 150px;
+	width: 1365px;
+	height: 150px;
+	background:white;
+}
+
+#divBottom .introduce1 {
+	margin-top: 40px;
+	margin-left:450px ;
+	width: 450px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce1 a{
+	text-align: center;
+	font-size: 13px;
+	color: black;
+	text-decoration: none;
+}  
+
+#divBottom .introduce1 a:hover{  
+	color: darkgray;
+}
+
+#divBottom .introduce2{
+	margin-top: 5px;
+	margin-left: 535px;
+	width: 250px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce2 a{
+	text-align: center;
+	font-size: 13px;
+	text-decoration: none;
+	color: black;
+}  
+
+#divBottom .introduce2 a:hover{  
+	color: darkgray;;
+}
+
+#divBottom .introduce3{
+	margin-top: 5px;
+	margin-left: 480px;
+	width: 360px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce3 a{
+	text-align: center;
+	font-size: 13px;
+	color: black;
+	text-decoration: none;
+}  
+
+#divBottom .introduce3 a:hover{  
+	color: darkgray;
+}

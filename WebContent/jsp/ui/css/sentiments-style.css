@@ -1,0 +1,221 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	background: url(../img/bg.png);
+}
+
+
+#divTop{
+	
+	margin:0px;
+	padding: 0px;
+	
+}
+
+ #divTop #divNavBar{
+	margin-left: 340px;
+	margin-top: -70px;
+	
+}
+
+
+#divTop #divNavBar ul a{
+	
+	margin-left: 30px;
+	text-decoration: none;
+	font-size: 16px;
+	
+}
+
+#divTop #divNavBar ul a:hover{
+	color: orange;
+	
+}
+
+#divMiddle{
+	position: relative;
+	margin-top: 80px;
+	
+	
+	
+}
+
+#divMiddle .div-left{
+	position: relative;
+	
+	margin-left: 150px;
+	width: 645px;
+	
+	
+}
+
+#divMiddle .div-left #about-user{
+	border: 1px solid gainsboro;
+	margin-top:50px;
+	width: 645;
+	height: 60px;
+	background: white;
+	
+}
+
+#divMiddle .div-left #about-user ul{
+	margin-left: -10px;
+}
+
+#divMiddle .div-left #about-user ul a{
+	float: left;
+	margin-left: 20px;
+	margin-top: 22px;
+	font-size: 12px;
+	color: 14px;
+	text-decoration: none;
+	
+}
+
+#divMiddle .div-left #about-user .user-nav{
+	font-size: 15px;
+	color: black;
+}
+
+#divMiddle .div-left #about-user ul a:hover{
+	color: orange;
+}
+
+
+
+
+#divMiddle #divSidebar{
+	position: relative;
+	margin-left:875px ;
+	margin-top: -60px;
+	border: 1px solid gainsboro; 
+	background: white;
+	width: 340px;
+	height: 300px;
+}
+
+#divMiddle #divSidebar .user-avatar{
+	margin-top: 20px;
+	margin-left: 20px;
+	
+	
+}
+
+#divMiddle #divSidebar .name-relation{
+	margin-left: 180px;
+	margin-top: -80px;
+	width: 100px;
+	height: 20px;
+	font-size: 24px;
+	
+}
+
+#divMiddle #divSidebar .others{
+	margin-top: 80px;
+	margin-left: 20px;
+	font-size: 16px;
+	color: olive;
+}
+
+#divMiddle #divSidebar .user-datas{
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 300px;
+	height: 90px;
+}
+
+#divMiddle #divSidebar .user-datas ul{
+	margin-left: 20px;	
+	width: 260px;
+	height:40px ;
+	
+}
+
+#divMiddle #divSidebar .user-datas ul li{
+	margin-left: 20px;
+	font-size: 20px;
+	float: left;
+	display: inline;
+	padding: 20px;
+}
+
+#divMiddle #divSidebar .number{
+	float: left;
+	width: 280px;
+	height: 40px;
+	font-size: 16px;
+	text-align: center;
+}
+
+
+
+
+
+
+#divBottom{
+	position: absolute;
+	margin-top: 150px;
+	width: 1365px;
+	height: 150px;
+	border-top: 1px solid gainsboro;
+	background:white;
+}
+
+#divBottom .introduce1 {
+	margin-top: 40px;
+	margin-left:450px ;
+	width: 450px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce1 a{
+	text-align: center;
+	font-size: 13px;
+	color: black;
+	text-decoration: none;
+}  
+
+#divBottom .introduce1 a:hover{  
+	color: darkgray;
+}
+
+#divBottom .introduce2{
+	margin-top: 5px;
+	margin-left: 535px;
+	width: 250px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce2 a{
+	text-align: center;
+	font-size: 13px;
+	text-decoration: none;
+	color: black;
+}  
+
+#divBottom .introduce2 a:hover{  
+	color: darkgray;;
+}
+
+#divBottom .introduce3{
+	margin-top: 5px;
+	margin-left: 480px;
+	width: 360px;
+	height: 20px;
+	color: black;
+}
+
+#divBottom .introduce3 a{
+	text-align: center;
+	font-size: 13px;
+	color: black;
+	text-decoration: none;
+}  
+
+#divBottom .introduce3 a:hover{  
+	color: darkgray;
+}
